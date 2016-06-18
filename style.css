@@ -1,0 +1,336 @@
+
+#nav 
+	a{
+	color:white;
+	}
+#nav	.having{
+		color:darkgrey;
+	}
+.bottom{
+	background-color: #303030;
+}
+.bottom .btext{
+color:yellow;
+}
+.logo  {text-decoration: none;
+   color:yellow;
+   }
+
+header{
+	background-color: #303030;
+	padding-bottom:10px;
+}
+
+footer{
+	padding-top:8px;
+	height:70px;
+	line-height:0px;
+}
+header{
+	height:70px;
+}
+
+#header{
+	margin-bottom:40px;
+	margin-top:10px;
+}
+p{
+	color:silver;
+}
+
+#size{
+	font-size:10px;
+}
+#header logo a{
+	color:yellow;
+	font:"Helvetica Neue",Helvetica;
+}
+#size{
+	border-top: 0.3px solid black;
+	padding-bottom:5px;
+	padding-top:8px;
+	border-bottom:0.3px solid black;
+}
+#content{
+	font:"Helvetica Neue",Helvetica;
+	
+}
+#features p{
+	color:black;
+}
+ #features{
+	 margin-bottom:15px;
+position: relative;
+}
+#sth{
+    height:200px;
+	position: absolute;
+    bottom: 200px;
+        left:0;
+    width: 100%;
+    font-size: 20px;
+	padding-left:5px;
+}
+
+
+#content{
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+body{
+	font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 100%;
+	margin:0 ;
+	background-color:silver;
+}
+#nav{
+	float:right;
+	text-align:right;
+	width:45%;
+	padding-top:30px;
+	padding-right:0px;
+	margin-right:0px;
+	font:"Helvetica Neue",Helvetica;
+}
+.ctext1{
+	padding-top:50px;
+	text-align:left;
+	width:45%;
+	font:"Helvetica Neue",Helvetica;
+	height:177px;
+}
+.cimage1{
+	float:right;
+	width:45%;
+}
+.cimage1{
+	left: 300px;
+  position: relative;
+	padding-left:0;
+}
+
+.cimage1,.ctext1{
+	display:inline-block;
+	}
+
+
+.group2{
+clear:right;
+margin-bottom:20px;
+	margin-top:20px;
+	background-color:white;
+height:226px;
+padding-left:0;
+	}
+
+.ctext2{
+	clear:both;
+	font:"Helvetica Neue",Helvetica;
+
+	height:160px;}
+
+.ctext2{
+	
+	float:right;
+	text-align:left;
+	width:45%;
+	padding-top:40px;
+	margin-top:0px;
+	background-color:white;
+}
+
+.ctext2,.cimage2{
+	display:inline-block;
+}
+.cimage2{
+	right: 15px;
+  position: relative;
+	padding-left:0;
+}
+
+
+.adspace{
+	clear:both;
+	background-color:lime;
+	height:64px;
+
+	}
+	
+	.adspace  p{
+		color:white;
+		
+	}
+	
+	h5{
+		color:white;
+		padding-top:10px 0px;	}
+	
+.logo,#nav{
+	display:inline-block;
+	font:"Helvetica Neue",Helvetica;
+}
+
+.logo{
+	text-align:left;
+	width:45%;
+	font-size:40px;
+}
+.mainblog{
+	padding-top;20px;
+	padding-bottom:20px;
+	padding-left:15px;
+	text-align:left;
+	background-color:white;
+	margin-bottom:20px;
+	margin top:20px;
+	
+}
+h2{
+	
+	height:25px;
+	padding-top;20px;
+	margin-top:20px;
+}
+.grid{
+	padding-top;20px;
+	padding-bottom:20px;
+	padding-left:15px;
+	background-color:white;
+	margin-bottom:20px;
+}
+
+.group1{
+	padding-top;20px;
+	padding-bottom:20px;
+	padding-left:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	background-color:white;
+}
+
+
+.group2{
+	padding-top;20px;
+	padding-bottom:20px;
+	padding-left:15px;
+	
+}
+.btn1{
+	background-color:black;
+	color:white;
+	float:center;
+	padding:8px 25px;
+	-moz-border-radius:18px;
+	border-radius:18px;
+	font:20px;
+	
+	
+}
+.adspace{
+	padding-top:6px;
+	text-align:center;
+	margin-bottom:20px;
+	margin-top:0px;
+	line-height:0px;
+	
+}
+h5{
+	font-size:15px;
+}
+
+.blog2{
+	
+	padding-bottom:20px;
+	padding-left:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	background-color:white;
+	line-height:23px;
+}
+
+.blog2 p{
+	padding-right:10px;
+	text-align:left;
+	
+}
+
+
+h2{
+	font-size:20px;
+}
+.mainblog p{
+		font-size:20px;
+
+}
+
+	
+	
+	#content{
+		clear:both;
+	}
+
+
+h1 , h6{
+	color:yellow;
+	font:"Helvetica Neue",Helvetica;
+}
+i{
+font-style: italic;
+}
+#detailsp{
+   
+    background: darkslategrey;
+    color: floralwhite;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid #dfe2e5;
+    padding: 10px 30px;
+}
+#content{
+	
+    background-image: url("preCourseWork\psd2html\pce1\assets\big_img.jpg");
+  
+   
+        
+    } 
+}
+.nav {
+  margin: 66px 0 22px 0;
+  font-size: 14px;
+  font-weight: 400;
+}
+.btext1,.btext{
+	text-align: center
+}
+.bottomnav{
+	display: inline-block;
+}
+h3{
+	font-size;20px;
+}
+.col-1-3 p{
+	padding-top;20px;
+	font-size;20px;
+	
+}
+.title h4{
+	font-size;20px;
+}
+
+.col-1-3 {
+  width: 30.33%;
+  padding-top:10px;
+  padding-left:8px;
+  text-align:center;
+}
+.col-2-3 {
+  width: 66.66%;
+}
+
+.col-1-3,
+.col-2-3 {
+  display: inline-block;
+  vertical-align: top;
+}
